@@ -19,7 +19,7 @@ function App() {
     });
   }, []);
 
-  pikachu;
+  // pikachu;
   return (
     <>
       <Router>
